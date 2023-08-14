@@ -28,5 +28,4 @@ BibTex:
 - This dataset is constructed based on a study focusing on Roadmap 2.0, which is a care partner-facing mobile health application.
 - After processing, the dataset consists of data from 49 dyads across 14 weeks.
 - Linear models are fitted on the daily and weekly variables; the resulting coefficients, residuals, and initial values of the variables are included in the dataset.
-- See [documentation](https://github.com/StatisticalReinforcementLearningLab/Roadmap2.0Testbed/documentation) for a detailed description of the dataset.
-
+- See [documentation](https://github.com/StatisticalReinforcementLearningLab/Roadmap2.0Testbed/blob/main/documentation/Documentation.pdf) for a detailed description of the dataset.
