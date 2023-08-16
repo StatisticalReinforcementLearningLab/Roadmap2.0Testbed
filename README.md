@@ -22,7 +22,7 @@ BibTex:
 
 ## Past usage
 * **Reinforcement Learning**  
-    - Li S., Salvat Niell L., Choi S. W., Nahum-Shani I., Shani G., Murphy S. (2023). Dyadic Reinforcement Learning. arXiv preprint.
+    - Li S., Salvat Niell L., Choi S. W., Nahum-Shani I., Shani G., Murphy S. (2023). [Dyadic Reinforcement Learning](https://arxiv.org/abs/2308.07843). arXiv preprint arXiv:2308.07843.
  
 ## About the dataset
 - This dataset is constructed based on a study focusing on Roadmap 2.0, which is a care partner-facing mobile health application.
